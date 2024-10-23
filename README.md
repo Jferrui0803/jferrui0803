@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jmfr726@gmail.com**
 
+- ENLACE REPOSITORIO CRUD-POKEMON: https://github.com/Jferrui0803/CRUDPHP-POKEMON
+
 <hr></hr>
 
 <h3 align="left">Connect with me:</h3>
