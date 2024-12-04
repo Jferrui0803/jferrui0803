@@ -9,7 +9,13 @@
 
 - 📫 How to reach me **jmfr726@gmail.com**
 
+<hr></hr>
+
+TRABAJOS REALIZADOS EN PRIMER TRIMESTRE DE DESARROLLO WEB EN ENTORNO SERVIDOR:
+
 - ENLACE REPOSITORIO CRUD-POKEMON: https://github.com/Jferrui0803/CRUDPHP-POKEMON
+- ENLACE REPOSITORIO POKEMON LARAVEL: https://github.com/Jferrui0803/traditionalLaravelPokemonApp
+- ENLACE REPOSITORIO SUBIDA IMAGEN: https://github.com/Jferrui0803/subirImagen
 
 <hr></hr>
 
